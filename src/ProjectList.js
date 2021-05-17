@@ -23,7 +23,7 @@ import {Project} from "./Project";
      return(
          <div className="details" id="calss_2">
              <p className="project_heading">
-                 <code><h3><b>My Projects</b></h3></code>
+                 <code><h2><b>My Projects</b></h2></code>
              </p>
              <hr/>
              <table border="1" className="table">
